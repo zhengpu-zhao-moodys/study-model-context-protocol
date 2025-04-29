@@ -26,3 +26,6 @@ if __name__ == "__main__":
     mcp.settings.log_level = "DEBUG"
     mcp.run("sse")
     print("Server finished.")  # This might not appear if server runs correctly
+    
+    
+# python "C:/Users/zhaoz/OneDrive - moodys.com/ZZP_files/study-model-context-protocol/example/my_first_mcp_server/server.py"
